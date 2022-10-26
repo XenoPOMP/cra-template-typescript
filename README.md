@@ -4,7 +4,7 @@ Made by [XenoPOMP](https://github.com/XenoPOMP).
 
 ## Getting started
 ```bash
-git clone https://github.com/XenoPOMP/cra-template-typescript your-project-name
+git clone https://github.com/XenoPOMP/cra-template-typescript.git your-project-name
 cd your-project-name
 npm install
 ```
