@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cd22f5d9-7967-44b9-84d8-107425a4d386" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cra-template-typescript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cra-template-typescript.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666773090810</updated>
       <workItem from="1666773099317" duration="1862000" />
-      <workItem from="1666800294127" duration="950000" />
+      <workItem from="1666800294127" duration="1060000" />
     </task>
     <servers />
   </component>
