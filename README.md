@@ -50,7 +50,7 @@ export const store = createStore(rootReducer);
 ```
 
 ### React Redux implementation
-To use Redux inside React-component, you have to import ``useDispatch`` and ``useSelector`` functions from ``react-redux``
+To use Redux inside React-component, you have to import ``useDispatch`` and ``useSelector`` hooks from ``react-redux``
 ```ts
 import { useDispatch, useSelector } from 'react-redux';
 
