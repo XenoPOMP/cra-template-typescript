@@ -10,7 +10,7 @@ npm install
 ```
 
 ## Guides
-* [React](http://localhost:300)
+* [React](https://github.com/XenoPOMP/cra-template-typescript/tree/master/.ct/docs/react#readme)
 * [Redux](http://localhost:300)
 
 ## Available scripts
