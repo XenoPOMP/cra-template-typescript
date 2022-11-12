@@ -13,13 +13,6 @@ npm install
 * [React](https://github.com/XenoPOMP/cra-template-typescript/tree/master/.ct/docs/react#readme)
 * [Redux](http://localhost:300)
 
-## Available scripts
-### ``npm run start``
-Runs development server of your React App at [http://localhost:3000](http://localhost:3000)
-
-### ``npm run build``
-Start build of your app. When build will end, you can find it in ``build/index.html``
-
 ## Redux
 This React template uses Redux as state library.
 
