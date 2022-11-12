@@ -9,6 +9,10 @@ cd your-project-name
 npm install
 ```
 
+## Guides
+* [React](http://localhost:300)
+* [Redux](http://localhost:300)
+
 ## Available scripts
 ### ``npm run start``
 Runs development server of your React App at [http://localhost:3000](http://localhost:3000)
