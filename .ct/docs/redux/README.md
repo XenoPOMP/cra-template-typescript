@@ -1,8 +1,8 @@
 # Redux & React Redux
 
 ## Table of contents
-1. [Index file]()
-2. [React Redux implementation]()
+1. [Index file](https://github.com/XenoPOMP/cra-template-typescript/tree/master/.ct/docs/redux#index-file)
+2. [React Redux implementation](https://github.com/XenoPOMP/cra-template-typescript/tree/master/.ct/docs/redux#react-redux-implementation)
 <hr/>
 
 ### Index file

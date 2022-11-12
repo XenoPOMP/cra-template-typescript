@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd22f5d9-7967-44b9-84d8-107425a4d386" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.ct/docs/redux/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/.ct/docs/redux/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,7 @@
       <workItem from="1666801661953" duration="1014000" />
       <workItem from="1667374406399" duration="1629000" />
       <workItem from="1667522918583" duration="3543000" />
-      <workItem from="1668259503212" duration="1413000" />
+      <workItem from="1668259503212" duration="1451000" />
     </task>
     <servers />
   </component>
