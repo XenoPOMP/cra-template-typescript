@@ -10,7 +10,7 @@ npm install
 ```
 
 ## Setup
-* [WebStorm]()
+* [WebStorm](https://github.com/XenoPOMP/cra-template-typescript/tree/master/.ct/docs/setup/webstorm#readme)
 * [VS Code]()
 
 ## Guides
