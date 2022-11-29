@@ -9,6 +9,10 @@ cd your-project-name
 npm install
 ```
 
+## Setup
+* [WebStorm]()
+* [VS Code]()
+
 ## Guides
 * [React](https://github.com/XenoPOMP/cra-template-typescript/tree/master/.ct/docs/react#readme)
 * [Redux](https://github.com/XenoPOMP/cra-template-typescript/tree/master/.ct/docs/redux#readme)
