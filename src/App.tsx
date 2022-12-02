@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import NotFound from './assets/pages/NotFound/NotFound';
-import ReduxExample from './assets/components/ReduxExample/ReduxExample';
 import MainPage from './assets/pages/MainPage/MainPage';
 
 function App() {

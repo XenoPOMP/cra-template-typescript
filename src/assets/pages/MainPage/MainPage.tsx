@@ -1,13 +1,11 @@
 import React from 'react';
-import Layout from '../../components/Layout/Layout';
-import MetaTitle from '../../components/MetaTitle/MetaTitle';
+import Page from '../../components/Page/Page';
 
 const MainPage = () => {
   return (
-    <Layout>
-      <MetaTitle pageTitle={'Main'} pageDescription={''} keywords={''} />
-      Hello world!
-    </Layout>
+    <Page meta={{ pageTitle: 'Main', pageDescription: '', keywords: '' }}>
+      This is a main page!
+    </Page>
   );
 };
 
