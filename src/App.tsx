@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Layout from './assets/components/Layout/Layout';
 import NotFound from './assets/pages/NotFound/NotFound';
 import ReduxExample from './assets/components/ReduxExample/ReduxExample';
+import MainPage from './assets/pages/MainPage/MainPage';
 
 function App() {
   return (
@@ -10,9 +10,7 @@ function App() {
       <Routes>
         <Route path={'*'} element={<NotFound />} />
 
-        <Route path={'/'} element={<Layout>Hello world!</Layout>} />
-
-        <Route path={'/redux'} element={<ReduxExample />} />
+        <Route path={'/'} element={<MainPage />} />
       </Routes>
     </Router>
   );

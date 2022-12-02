@@ -1,10 +1,7 @@
 import React, { FC } from 'react';
+import { LayoutProps } from './Layout.props';
 
-interface props {
-  children?: React.ReactNode;
-}
-
-const Layout: FC<props> = ({ children }) => {
+const Layout: FC<LayoutProps> = ({ children }) => {
   return <>{children}</>;
 };
 
