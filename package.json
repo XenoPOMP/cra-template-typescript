@@ -49,18 +49,12 @@
       "last 1 safari version"
     ]
   },
-  "prettier": {
-    "trailingComma": "all",
-    "tabWidth": 2,
-    "semi": true,
-    "singleQuote": true,
-    "jsxSingleQuote": true
-  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.45.0",
     "@typescript-eslint/parser": "^5.45.0",
     "eslint": "^8.28.0",
     "eslint-plugin-react": "^7.31.11",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "prettier-init": "^1.3.0"
   }
 }
